@@ -21,7 +21,7 @@ indent
 
 indent +
 
-# To unindent
+# To unindent:
 
 indent -
 
