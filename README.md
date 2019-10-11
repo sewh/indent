@@ -14,7 +14,7 @@ go install github.com/sewh/indent
 indent
 ```
 
-## Usage
+## Usage
 
 ```bash
 # To indent:
